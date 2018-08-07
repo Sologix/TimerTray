@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TimerTray">
+</Property><Property Name="Solution File" Value="K:\Projects\TimerTray\TimerTray.sln">
+</Property><Property Name="User Options File" Value="K:\Projects\TimerTray\TimerTray.suo">
+</Property><Property Name="Date" Value="Saturday, June 17, 2017">
+</Property><Property Name="Time" Value="12:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TimerTray.sln" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TimerTray.suo" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray.suo">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\TimerTray.csproj" Description="Project file successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\TimerTray.csproj">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\About.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\About.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\About.Designer.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\TimerForm.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\TimerForm.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\TimerForm.Designer.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\TimerForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Program.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Program.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Properties\AssemblyInfo.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Properties\Resources.Designer.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Properties\Settings.Designer.cs" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Properties\Settings.settings" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Stopwatch.jpg" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Stopwatch.jpg">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Watch.ico" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Watch.ico">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\About.resx" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\About.resx">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\TimerForm.resx" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\TimerForm.resx">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\Properties\Resources.resx" Description="File successfully backed up as K:\Projects\TimerTray\Backup\TimerTray\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\TimerTray.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TimerTray" Source="TimerTray\TimerTray.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TimerTray.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TimerTray.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimerTray" Source="TimerTray\TimerTray.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
