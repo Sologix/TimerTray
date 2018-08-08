@@ -246,18 +246,24 @@ namespace TimerTray
 
       if (m_nHours == 0 && m_nMinutes == 0 && m_nSeconds == 0)
       {
-        BringFormToFront();
-        m_timer1.Stop();
-        UpdateButtonCaption();
-        ShowCountDownFinishedText();
-        PlayCountDownFinishedSound();
-        LoadTimerVariablesFromComboBoxes();
-        m_bCountdownFinished = true;
+        TimerElapsed();
       }
       else
       {
         UpdateCountDownDisplay();
       }
+    }
+
+    private void TimerElapsed()
+    {
+      //BringFormToFront();
+      m_timer1.Stop();
+      UpdateButtonCaption();
+      ShowCountDownFinishedText();
+      PlayCountDownFinishedSound();
+      LoadTimerVariablesFromComboBoxes();
+      m_bCountdownFinished = true;
+      DiplayBalloonTip();
     }
 
     private void ShowCountDownFinishedText()
@@ -278,6 +284,11 @@ namespace TimerTray
       {
         MessageBox.Show(ex.Message);
       }
+    }
+
+    private void DiplayBalloonTip()
+    {
+      m_notifyIcon1.ShowBalloonTip( 30000, "Timer Elapsed", string.Format( "Countdown finished after {0}:{1}:{2}", m_nHours.ToString( "D2" ), m_nMinutes.ToString( "D2" ), m_nSeconds.ToString( "D2" ) ), ToolTipIcon.Info );
     }
 
     private void AboutMenuItem_Click(object sender, EventArgs e)
