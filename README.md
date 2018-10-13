@@ -5,3 +5,5 @@
 A simple countdown timer tray app written in C#. 
 
 Requires .NET 3.5 or higher.
+
+You can download the installer [here](/installer/output/setup.exe).
