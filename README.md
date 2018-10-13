@@ -1,6 +1,6 @@
 # TimerTray
 
-![Timertray Screenshot](/relative/path/to/img.jpg?raw=true "TimerTray main window")
+![Timertray Screenshot](/MainWindow.png?raw=true "TimerTray main window")
 
 A simple countdown timer tray app written in C#. 
 
