@@ -1,8 +1,8 @@
 # TimerTray
 
-![Timertray Screenshot](/MainWindow.png?raw=true "TimerTray main window")
-
 ![Timertray Screenshot](/MainWindow2.png?raw=true "TimerTray main window")
+
+![Timertray Screenshot](/MainWindow.png?raw=true "TimerTray main window")
 
 ![Timertray Notification](/TrayNotification.png?raw=true "TimerTray tray nofification")
 
