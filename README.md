@@ -6,7 +6,7 @@
 
 ![Timertray Notification](/TrayNotification.png?raw=true "TimerTray tray nofification")
 
-A handy countdown timer tray app written in C#. 
+A handy countdown timer tray app written in C#. Useful as a tea- or cooking timer while you work at your computer.
 
 Requires .NET 3.5 or higher.
 
