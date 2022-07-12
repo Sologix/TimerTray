@@ -1,4 +1,6 @@
-# TimerTray
+# TimerTray *DEPRECATED*
+
+Note: this program has been superseded by [TimerTray2](https://github.com/Sologix/TimerTray2)!!
 
 ![Timertray Screenshot](/MainWindow2.png?raw=true "TimerTray main window")
 
